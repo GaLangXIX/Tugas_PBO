@@ -5,7 +5,7 @@
 
 /**
  *
- * @author WINDOWS 10
+ * @author galang - 21104410007
  */
 public interface ppn {
     
